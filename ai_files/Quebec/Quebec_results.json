@@ -1,0 +1,877 @@
+[
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Simpson Co.",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "205 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "H. M. Simpson",
+    "Company Type": "Real Estate:",
+    "building": "40 Renouf bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "W. A. Snowdon",
+    "Company Type": "Real Estate:",
+    "building": "213 Mchts. Bk. bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "South Shore Land Co.",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "9 Hermine"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "J. Spear",
+    "Company Type": "Real Estate:",
+    "building": "32 Mchts. Bk. bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Starr & McLeod",
+    "Company Type": "Real Estate:",
+    "building": "403 Lake of the Woods bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "A. A. Staunton",
+    "Company Type": "Real Estate:",
+    "building": "1 Bd. of Trade bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "George W. Stephens",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "18 St. Alexis"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Sterling Inv. Co.",
+    "Company Type": "Real Estate:",
+    "building": "127 Stanley",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Martin Stuart",
+    "Company Type": "Real Estate:",
+    "building": "36 Royal Trust bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "A. Talbot",
+    "Company Type": "Real Estate:",
+    "building": "556 Frontenac",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "A. M. Taylor",
+    "Company Type": "Real Estate:",
+    "building": "50 Merchants Bk. bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Telfer & Osgood",
+    "Company Type": "Real Estate:",
+    "building": "221 Coristine bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Geo. Tetreau",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "97 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Tetreault-Ville Annex Co.",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "59 St. Gabriel"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Alaric Tourangeau",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "319 Mt. Royal av., E."
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Z. Trudeau",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "52 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "V. Trudel",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "33 Notre Dame, W."
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Charles D. Tylee",
+    "Company Type": "Real Estate:",
+    "building": "44 Royal Trust bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Jean Versailles",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "99 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "A. Viau & Co.",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "21 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Hector Viau",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "74 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "H. R. N. Viau",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "43 St. Gabriel"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Henry Ward & Co.",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "260 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "I. Weinfield",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "55 University"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "West End Land Co.",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "107 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "George R. Wilson",
+    "Company Type": "Real Estate:",
+    "building": "60 Com. Union bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "C. Withycomb",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "242 St. James"
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Woodley & Griffith",
+    "Company Type": "Real Estate:",
+    "building": "50 Com. U. bldg.",
+    "address": null
+  },
+  {
+    "City": "MONTREAL",
+    "Company Name or Owners's Name": "Millen Yale Consolidated Rlty. Co.",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "6"
+  },
+  {
+    "City": "MURRAY BAY",
+    "Company Name or Owners's Name": "Charles Warren",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "MURRAY BAY",
+    "Company Name or Owners's Name": "J. E. Warren",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "NORTH HATLEY",
+    "Company Name or Owners's Name": "M. C. Frick",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "NORTH HATLEY",
+    "Company Name or Owners's Name": "C. N. Hause",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "NORTH HATLEY",
+    "Company Name or Owners's Name": "L. A. Taylor",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "NORTH HATLEY",
+    "Company Name or Owners's Name": "Taylor & Blossom",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ORMSTOWN",
+    "Company Name or Owners's Name": "John Ligget",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "QUEBEC",
+    "Company Name or Owners's Name": "ALLEN & LAUGHLIN",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": "44 Mountain Hill"
+  },
+  {
+    "City": "QUEBEC",
+    "Company Name or Owners's Name": "G. H. Burroughs",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "QUEBEC",
+    "Company Name or Owners's Name": "A. J. Colston",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "QUEBEC",
+    "Company Name or Owners's Name": "J. A. Giguere",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "QUEBEC",
+    "Company Name or Owners's Name": "Alex Hardy",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "QUEBEC",
+    "Company Name or Owners's Name": "A. Lebreque",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "QUEBEC",
+    "Company Name or Owners's Name": "Leclerc & Lockwell",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "QUEBEC",
+    "Company Name or Owners's Name": "C. W. Walcot",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "RICHMOND",
+    "Company Name or Owners's Name": "G. J. Alexander",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "RICHMOND",
+    "Company Name or Owners's Name": "W. J. Ewing",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "RICHMOND",
+    "Company Name or Owners's Name": "W. E. McIver",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "RICHMOND",
+    "Company Name or Owners's Name": "S. McMorine",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "RICHMOND",
+    "Company Name or Owners's Name": "James Murphy",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ROCK ISLAND",
+    "Company Name or Owners's Name": "E. W. Hay",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. AIME",
+    "Company Name or Owners's Name": "L. R. Cadorette",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. ANNE DE BELLEVUE",
+    "Company Name or Owners's Name": "A. E. Abbott",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. ANNE DE BELLEVUE",
+    "Company Name or Owners's Name": "P. E. Brown",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. ARMAND",
+    "Company Name or Owners's Name": "W. A. Smith",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. BARTHELEMI",
+    "Company Name or Owners's Name": "L. C. Boucher",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. BARTHELEMI",
+    "Company Name or Owners's Name": "Chas, L'Henrend",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. BARTHELEMI",
+    "Company Name or Owners's Name": "James Lafontaine",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. CESAIRE",
+    "Company Name or Owners's Name": "X. N. Benoit",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. CESAIRE",
+    "Company Name or Owners's Name": "S. Senecal",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. EVARISTE",
+    "Company Name or Owners's Name": "Jos. Blais",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. EVARISTE",
+    "Company Name or Owners's Name": "J. A. Dallaire",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. EVARISTE",
+    "Company Name or Owners's Name": "Johnny Forten",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. FLAVIEN",
+    "Company Name or Owners's Name": "D. W. Bernard",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. FLAVIEN",
+    "Company Name or Owners's Name": "A. Dumaine",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. FLAVIEN",
+    "Company Name or Owners's Name": "G. Roy",
+    "Company Type": "Real Estate:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. FRANCOIS DU LAC",
+    "Company Name or Owners's Name": "ADOLPHE ALLARD",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. HYACINTHE",
+    "Company Name or Owners's Name": "H. A. Beauregard",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. HYACINTHE",
+    "Company Name or Owners's Name": "Arthur Flibotte",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. HYACINTHE",
+    "Company Name or Owners's Name": "Theod Halley",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. HYACINTHE",
+    "Company Name or Owners's Name": "Eusebe Morin",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. HYACINTHE",
+    "Company Name or Owners's Name": "Rene Morin",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "Wilfrid Dugas",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "J. A. Dupins",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "Alp. Fontaine",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "L. B. Fontaine",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "F. Forest",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "J. H. A. Forest",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "O. Goulet & Fibs",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "L. O. Lasalle",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "J. E. E. Marion",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "Arsene Mireault",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "J. W. Munir",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JACQUES",
+    "Company Name or Owners's Name": "Jules Poulet",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JEAN",
+    "Company Name or Owners's Name": "E. Denis",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JEAN",
+    "Company Name or Owners's Name": "W. F. Gervais",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. JOHNS",
+    "Company Name or Owners's Name": "STANISLAS POULIN",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "ST. OURS",
+    "Company Name or Owners's Name": "J. M. Richard",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SCOTSTOWN",
+    "Company Name or Owners's Name": "R. A. Scott",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SHERBROOKE",
+    "Company Name or Owners's Name": "Chas. G. Brown",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SHERBROOKE",
+    "Company Name or Owners's Name": "R. R. Burbridge",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SHERBROOKE",
+    "Company Name or Owners's Name": "Arthur Cheraller",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SHERBROOKE",
+    "Company Name or Owners's Name": "T. T. Delisle",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SHERBROOKE",
+    "Company Name or Owners's Name": "J. J. Griffith",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SHERBROOKE",
+    "Company Name or Owners's Name": "P. T. Hamel",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SHERBROOKE",
+    "Company Name or Owners's Name": "C. Picard",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SHERBROOKE",
+    "Company Name or Owners's Name": "Guvais Pierre",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SOREL",
+    "Company Name or Owners's Name": "V. A. Bourgeois",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SOREL",
+    "Company Name or Owners's Name": "J. W. Martel",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "STANSTEAD",
+    "Company Name or Owners's Name": "E. W. Hay",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SUTTON",
+    "Company Name or Owners's Name": "L. E. Dyer",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SUTTON",
+    "Company Name or Owners's Name": "S. W. Robinson",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SUTTON",
+    "Company Name or Owners's Name": "James H. Smith",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "SWEETSBURG",
+    "Company Name or Owners's Name": "J. A. Boisaert",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "UPTON",
+    "Company Name or Owners's Name": "J. A. Yergeau",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "Vital Chirvine",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "Madame P. Dansereau",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "F. X. Desmarais",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "Madame C. Dupri",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "G. H. Fontaine",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "Armand Larose",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "G. A. Larose",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "Napoleon Larose",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERCHERES",
+    "Company Name or Owners's Name": "Azani Racine",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERDUN",
+    "Company Name or Owners's Name": "C. Allard",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VERDUN",
+    "Company Name or Owners's Name": "David Rochon",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VILLE ST. LAURENT",
+    "Company Name or Owners's Name": "Horace Gohler",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VILLE ST. LAURENT",
+    "Company Name or Owners's Name": "Elsnard Gohier & Co.",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VILLE ST. LAURENT",
+    "Company Name or Owners's Name": "Oliver Jasmin",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "VILLE ST. LAURENT",
+    "Company Name or Owners's Name": "H. Trudeau",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "WESTMOUNT",
+    "Company Name or Owners's Name": "Geo. E. Blackwell",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "WESTMOUNT",
+    "Company Name or Owners's Name": "C. J. Brown",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "WESTMOUNT",
+    "Company Name or Owners's Name": "A. C. Matthews",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "WINDSOR",
+    "Company Name or Owners's Name": "E. H. Begin",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  },
+  {
+    "City": "WINDSOR",
+    "Company Name or Owners's Name": "J. A. Begin",
+    "Company Type": "Attorney:",
+    "building": null,
+    "address": null
+  }
+]
