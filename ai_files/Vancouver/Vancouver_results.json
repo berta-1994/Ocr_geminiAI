@@ -1780,10 +1780,6 @@
   },
   {
     "City": "VANCOUVER",
-    "Company Name or Owners's Name": "Murray Elder Co.",
-    "Company Type":,
-  {
-    "City": "VANCOUVER",
     "Company Name or Owners's Name": "Fields & May",
     "Company Type": "Real Estate:",
     "building": null,
@@ -2708,9 +2704,6 @@
   },
   {
     "City": "VANCOUVER",
-    "Company Name or Owners's Name": "Key West,
-  {
-    "City": "VANCOUVER",
     "Company Name or Owners's Name": "Roy F. Likely",
     "Company Type": "Real Estate:",
     "building": null,
@@ -3632,7 +3625,7 @@
     "Company Type": "Real Estate:",
     "building": null,
     "address": "430 Richards"
-  }},
+  },
   {
     "City": "VANCOUVER",
     "Company Name or Owners's Name": "R. D. Rorison & Son",
@@ -4569,5 +4562,6 @@
     "Company Name or Owners's Name": "Business Locators & R. E.",
     "Company Type": "Real Estate:",
     "building": "",
-    "address": "707½ Yates"
-  }}]
+    "address": "707 Yates"
+  }
+]
